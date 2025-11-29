@@ -4,12 +4,6 @@ Juego de ajedrez multiplayer con arquitectura cliente-servidor desarrollado para
 
 El proyecto implementa un sistema completo de ajedrez en tiempo real donde múltiples jugadores pueden crear y unirse a partidas simultáneas, con validación de reglas en el servidor y una interfaz gráfica reactiva en el cliente.
 
-## Integrantes - Grupo M6
-
-- Novoa Romero, Martin Ricardo
-- La Giglia, Rodrigo Ariel
-- Gonzalez, Agustin Elias
-
 ## Arquitectura
 
 El proyecto está dividido en dos componentes principales:
