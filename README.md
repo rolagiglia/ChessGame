@@ -50,6 +50,10 @@ gradlew.bat run
 ```
 El servidor estará disponible en `ws://localhost:3000/ws`
 
+## Trabajo realizado en colaboracion con los desarrolladores:
+- Novoa Romero, Martin Ricardo
+- Gonzalez, Agustin Elias
+
 ### 2. Ejecutar Cliente
 ```
 1. Abrir Godot 4.5+
